@@ -1,0 +1,9 @@
+{
+  "name": "book-store",
+  "version": "0.0.1",
+  "description": "ng官方推荐项目结构",
+  "license": "ISC",  
+  "scripts": {
+    "test": "http-server -p 8000"
+  }    
+}

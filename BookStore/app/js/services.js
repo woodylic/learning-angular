@@ -1,0 +1,1 @@
+var bookStoreServices = angular.module('bookStoreServices', []);

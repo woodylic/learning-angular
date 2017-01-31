@@ -1,0 +1,1 @@
+var bookStoreDirectives = angular.module('bookStoreDirectives', []);
