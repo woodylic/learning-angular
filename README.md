@@ -4,4 +4,4 @@
 - demo 2 - two-ways binding
 - demo 3 - directive
 - demo 4 - ng-repeat & rootScope
-  
+- demo 5 - emit & broadcast
