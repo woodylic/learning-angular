@@ -6,3 +6,5 @@
 - demo 4 - ng-repeat & rootScope
 - demo 5 - emit & broadcast
 - demo 6 - two-ways binding form
+- demo 7 - ng-class
+- demo 8 - ng-show
