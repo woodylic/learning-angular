@@ -6,10 +6,11 @@
 	<body>
 		<div>
 			<input ng-model="greeting.text" />
-			<p>{{greeting.text}}, Angular!</p>
+			<!-- <p>{{greeting.text}}, Angular!</p> -->
+			<p><span ng-bind="greeting.text"></span></p>
 		</div>
 	</body>
-	<script type="text/javascript" src="../js/angular.1.5.8.min.js"></script>
+	<script type="text/javascript" src="../lib/angular-1.5.8/angular.min.js"></script>
 	<script type="text/javascript">
 		var appModule = angular.module('myApp', []);
 	</script>
